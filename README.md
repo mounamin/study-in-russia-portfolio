@@ -4,6 +4,10 @@
 MSc in Computer Science | VR & AI Enthusiast  
 Focus: Human-Computer Interaction, Computer Vision, VR Education
 
+## CV
+Preview
+![CV Page ](assets/MY_CV.png)
+[Download full CV PDF](https://drive.google.com/uc?export=download&id=1GkzTnyA4IQ-3IjK-BUSawSJbH1Io9l4s)
 
 
 
