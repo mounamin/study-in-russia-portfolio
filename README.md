@@ -6,7 +6,7 @@ Focus: Human-Computer Interaction, Computer Vision, VR Education
 
 ## CV
 You can download my CV here:  
-[CV.pdf](CV.pdf)
+[Download My CV](CV.pdf)
 
 ## Projects
 
