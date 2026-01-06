@@ -29,4 +29,6 @@ Preview
 | ![Kinect](assets/hand1.png) | ![VR](assets/vr1.png) |
 | ![Kinect](assets/hand2.png) | ![VR](assets/vr2.png) |
 
-
+## Connect
+📧 mounaagha39@gmail.com  
+🐙 GitHub: https://github.com/mounamin  
