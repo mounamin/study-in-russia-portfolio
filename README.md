@@ -6,7 +6,7 @@ Focus: Human-Computer Interaction, Computer Vision, VR Education
 
 ## CV
 Preview
-![CV Page](assets/CV.png)
+![CV Page ](assets/CV.png)
 [Download full CV (PDF)](https://drive.google.com/uc?export=download&id=1eoZntOeYKjx_0_4_jjWampaqc6DoRSPB)
 
 
