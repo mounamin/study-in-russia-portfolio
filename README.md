@@ -30,5 +30,5 @@ Preview
 | ![Kinect](assets/hand2.png) | ![VR](assets/vr2.png) |
 
 ## Connect
-📧 mounaagha39@gmail.com  
+📧 Email : mounaagha39@gmail.com  
 🐙 GitHub: https://github.com/mounamin  
